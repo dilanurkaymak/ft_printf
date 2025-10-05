@@ -7,7 +7,7 @@ Bu proje, 42 Cursus müfredatının bir parçası olarak geliştirilen **ft_prin
 - Karakter ve string çıktısı
 - Tamsayı ve unsigned tamsayı çıktısı
 - Hexadecimal ve pointer çıktısı
-- Belirli formatlama seçenekleri (örn. width, precision)
+- Belirli formatlama seçenekleri
 - Dosya descriptor ile yazdırma (fd kullanımı)
 
 ## Kullanım
